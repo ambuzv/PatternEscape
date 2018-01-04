@@ -1566,6 +1566,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: eb5dd43baba2d4dc1bab789615567e3d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  drawDebugRays: 0
   raycasterEventMask:
     serializedVersion: 2
     m_Bits: 4294967295
@@ -2096,6 +2097,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cameraObject: {fileID: 1910907418}
+  canvas1: {fileID: 0}
 --- !u!114 &755476768
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -4846,6 +4848,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cameraObject: {fileID: 1376680373}
+  canvas1: {fileID: 0}
 --- !u!82 &1805613127
 AudioSource:
   m_ObjectHideFlags: 0
@@ -5170,6 +5173,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cameraObject: {fileID: 1155219905}
+  canvas1: {fileID: 0}
 --- !u!23 &1867743569
 MeshRenderer:
   m_ObjectHideFlags: 0
